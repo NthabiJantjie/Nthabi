@@ -30,7 +30,7 @@
 #2.2 Event Management and State Control
 
 ## Create new events
-![Image]()
+![Image](https://github.com/NthabiJantjie/Nthabi/blob/adf14bd50cc89d6fe069206353c0817adfd1f7d4/Q2.2%20Staff%20create%20event.png)
 
 ![Image]()
 
