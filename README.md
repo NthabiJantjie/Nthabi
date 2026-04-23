@@ -39,7 +39,7 @@
 ![Image](https://github.com/NthabiJantjie/Nthabi/blob/dda1e2e958bc0dd94c78d8c96d3fb7ee7b85bf95/Q2.2%20Cancel%20Event.png)
 
 ## View all events
-![Image]()
+![Image](https://github.com/NthabiJantjie/Nthabi/blob/dcbb79e295e325a74473dd783e1c4994c983a720/Q2.2%20View%20all%20events%2C%20sort%20by%20name%20%26%20date.png)
 
 ![Image]()
 
