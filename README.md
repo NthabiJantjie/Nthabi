@@ -32,7 +32,8 @@
 ## Create new events
 ![Image](https://github.com/NthabiJantjie/Nthabi/blob/adf14bd50cc89d6fe069206353c0817adfd1f7d4/Q2.2%20Staff%20create%20event.png)
 
-![Image]()
+## Update event details (name, time, or location)
+![Image](https://github.com/NthabiJantjie/Nthabi/blob/aa3147508073df40c0f44988ce8c940e4a283fe2/Q2.2%20Updated%20event.png)
 
 ![Image]()
 
