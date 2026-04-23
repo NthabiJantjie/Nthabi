@@ -21,4 +21,7 @@ Load images of outputs from the code
 ### Role = Stdent Users
 
 ## View Available Events
+![Image alt](https://github.com/NthabiJantjie/Nthabi/blob/664c336b89f5cbfa478f2186a79a6013b1df9dc8/Student%20-%20View%20Avaiabe%20Events.png)
+
+## Register for Events
 ![Image alt]()
