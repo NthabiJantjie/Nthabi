@@ -36,8 +36,9 @@
 ![Image](https://github.com/NthabiJantjie/Nthabi/blob/aa3147508073df40c0f44988ce8c940e4a283fe2/Q2.2%20Updated%20event.png)
 
 ## Cancel Event
-![Image]()
+![Image](https://github.com/NthabiJantjie/Nthabi/blob/dda1e2e958bc0dd94c78d8c96d3fb7ee7b85bf95/Q2.2%20Cancel%20Event.png)
 
+## View all events
 ![Image]()
 
 ![Image]()
