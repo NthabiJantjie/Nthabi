@@ -35,6 +35,7 @@
 ## Update event details (name, time, or location)
 ![Image](https://github.com/NthabiJantjie/Nthabi/blob/aa3147508073df40c0f44988ce8c940e4a283fe2/Q2.2%20Updated%20event.png)
 
+## Cancel Event
 ![Image]()
 
 ![Image]()
