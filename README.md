@@ -24,4 +24,7 @@ Load images of outputs from the code
 ![Image alt](https://github.com/NthabiJantjie/Nthabi/blob/664c336b89f5cbfa478f2186a79a6013b1df9dc8/Student%20-%20View%20Avaiabe%20Events.png)
 
 ## Register for Events
+![Image alt](https://github.com/NthabiJantjie/Nthabi/blob/5ecbbbeff3a326972a04c670e6cc1f1126ee6dae/Student%20-%20Register%20for%20Event.png)
+
+## Cancel Registration
 ![Image alt]()
