@@ -1,9 +1,7 @@
 # Outputs of the project code
-Question 1
 
-2.1
-Load images of outputs from the code 
-
+# 2.1 User Roles and Access Control 
+ 
 ### Role = Saff Ussers
 
 ## Create Events
@@ -29,4 +27,17 @@ Load images of outputs from the code
 ## Cancel Registration
 ![Image alt](https://github.com/NthabiJantjie/Nthabi/blob/fc63aad6e5fa021af237b9e64976fad9eafe419b/Student%20-%20Cancel%20registration%20%26%20logout.png)
 
-## View registartion staus
+#2.2 Event Management and State Control
+
+## Create new events
+![Image]()
+
+![Image]()
+
+![Image]()
+
+![Image]()
+
+![Image]()
+
+
