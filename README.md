@@ -4,6 +4,8 @@ Question 1
 2.1
 Load images of outputs from the code 
 
+### Role = Saff Ussers
+
 ## Create Events
 ![image alt](https://github.com/NthabiJantjie/Nthabi/blob/9072d2b8f1c892daf4e496a5c953a69801a4b1af/Staff%20-%20Create%20event.png)
 
@@ -15,3 +17,8 @@ Load images of outputs from the code
 
 ## View all registered participants and waiting lists
 ![Image alt](https://github.com/NthabiJantjie/Nthabi/blob/ea76520dcddfe2b95fe6db660efa4bd8f4afb710/Staff%20-%20Participants%20and%20waitlist..%20loged%20out.png)
+
+### Role = Stdent Users
+
+## View Available Events
+![Image alt]()
