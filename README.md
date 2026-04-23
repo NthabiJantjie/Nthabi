@@ -14,4 +14,4 @@ Load images of outputs from the code
 ![Image alt](https://github.com/NthabiJantjie/Nthabi/blob/a85d538f928104b2d2176731f6ec157a6930251e/Staff%20-%20Event%20cancelled.png)
 
 ## View all registered participants and waiting lists
-![Image alt]()
+![Image alt](https://github.com/NthabiJantjie/Nthabi/blob/ea76520dcddfe2b95fe6db660efa4bd8f4afb710/Staff%20-%20Participants%20and%20waitlist..%20loged%20out.png)
