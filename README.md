@@ -41,6 +41,6 @@
 ## View all events
 ![Image](https://github.com/NthabiJantjie/Nthabi/blob/dcbb79e295e325a74473dd783e1c4994c983a720/Q2.2%20View%20all%20events%2C%20sort%20by%20name%20%26%20date.png)
 
-![Image]()
+![Image](https://github.com/NthabiJantjie/Nthabi/blob/3f5a1b5c8129aa55b8555db3d45fed4c31a7031b/Q2.2%20View%20all%20partcipant%20and%20waitlist.png)
 
 
