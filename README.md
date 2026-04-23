@@ -27,4 +27,6 @@ Load images of outputs from the code
 ![Image alt](https://github.com/NthabiJantjie/Nthabi/blob/5ecbbbeff3a326972a04c670e6cc1f1126ee6dae/Student%20-%20Register%20for%20Event.png)
 
 ## Cancel Registration
-![Image alt]()
+![Image alt](https://github.com/NthabiJantjie/Nthabi/blob/fc63aad6e5fa021af237b9e64976fad9eafe419b/Student%20-%20Cancel%20registration%20%26%20logout.png)
+
+## View registartion staus
